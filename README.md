@@ -1,5 +1,5 @@
 # Applied_Machine_Learning
-This repository contains my coursework submissions for the 'Introductory Applied Machine Learning' course. 
+This repository contains my coursework submissions for the 'Applied Machine Learning' course. 
 
 CW1 Topics:   
 - Linear and Non-Linear Regression
